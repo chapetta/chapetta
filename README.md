@@ -1,16 +1,16 @@
-### Hi there 👋
+Olá! Me chamo Yan Chapetta, tenho 29 anos e moro no Rio de Janeiro. Sou desenvolvedor web frontEnd, que foi a área que eu mais me identifiquei ate o momento depois de concluir o curso da Trybe. Atualmente estou procurando oportunidades como desenvolvedor Jr FrondEnd.
 
-<!--
-**chapetta/chapetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_____________________________________________________________________________________________________________________________________________________
+Algumas formas de contato comigo:
 
-Here are some ideas to get you started:
+<span>
+<a href="https://wa.me/21981510300"/><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ </a>
+<a href="https://www.linkedin.com/in/yan-chapetta-1a422a100/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_____________________________________________________________________________________________________________________________________________________
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chapetta&size_weight=0.5&count_weight=0.5&theme=transparent)](https://github.com/chapetta/github-readme-stats)
