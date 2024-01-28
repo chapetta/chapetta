@@ -1,4 +1,4 @@
-Olá! Me chamo Yan Chapetta, tenho 30 anos e moro no Rio de Janeiro. Sou desenvolvedor web frontEnd, que foi a área que eu mais me identifiquei ate o momento depois de concluir o curso da Trybe. Atualmente estou procurando oportunidades como desenvolvedor Jr FrondEnd.
+Olá! Me chamo Yan Chapetta, tenho 30 anos e moro no Rio de Janeiro. Sou desenvolvedor web BackEnd Python junior, que foi a área que eu mais me identifiquei ate o momento depois de concluir o curso da Trybe. Atualmente estou procurando oportunidades como desenvolvedor Jr BackEnd Python.
 
 _____________________________________________________________________________________________________________________________________________________
 Algumas formas de contato comigo:
