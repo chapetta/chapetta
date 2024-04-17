@@ -1,4 +1,4 @@
-Olá! Me chamo Yan Chapetta, tenho 30 anos e moro no Rio de Janeiro. Sou desenvolvedor web junior. Atualmente estou procurando oportunidades como desenvolvedor Front, Back ou FullStack.
+Olá! Me chamo Yan Chapetta, tenho 30 anos e moro no Rio de Janeiro. Sou desenvolvedor Front-End júnior. Atualmente estou procurando oportunidades como desenvolvedor Front.
 
 _____________________________________________________________________________________________________________________________________________________
 Algumas formas de contato comigo:
