@@ -23,21 +23,34 @@
 Sou desenvolvedor Fullstack com foco em React no front-end e Node.js no back-end. Gosto de transformar ideias em produtos úteis — desde protótipo até deploy. Atualmente trabalhando em projetos pessoais como **PokéTrunfo** e um **portfolio interativo**.
 
 ---
-<!--
-## 🚀 Projetos em destaque
-### PokéTrunfo — jogo de cartas (React + PokéAPI)
-> Jogo estilo Super Trunfo com cartas dos 151 originais. Sorteio de mãos, comparação de stats e placar.  
-**Link:** `https://github.com/YOUR_GITHUB_USERNAME/poketrunfo` • ![Preview](./assets/poketrunfo-preview.png)
 
-### Portfolio Pessoal
-> Site responsivo com projetos, blog e contato — deploy em Vercel.  
-**Link:** `https://your-portfolio.vercel.app`
-
-### API de Tarefas (Node.js + Express + MySQL)
-> CRUD com autenticação JWT e testes unitários.
--->
 
 ---
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <img src="https://skyline.github.com/chapetta.png" alt="Skyline" style="max-width:100%;">
+    </td>
+
+    <td width="35%" valign="top">
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=dark" alt="GitHub stats" />
+      </p>
+
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapetta&layout=compact&theme=dark" alt="Top languages" />
+      </p>
+
+      <p>
+        <img src="https://github-profile-trophy.vercel.app/?username=chapetta&theme=radical" alt="Trophies" />
+      </p>
+
+      <p>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chapetta&theme=dark" alt="GitHub Streak" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ---
