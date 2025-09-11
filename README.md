@@ -40,10 +40,10 @@ Sou desenvolvedor Fullstack com foco em React no front-end e Node.js no back-end
 ---
 
 ## 📊 Estatísticas
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-</p>
-
+🌞 Morning                17690 commits       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+🌆 Daytime                27176 commits       ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+🌃 Evening                33337 commits       █████████░░░░░░░░░░░░░░░░   34.53 % 
+🌙 Night                  18335 commits       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 <p align="center">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
 </p>
