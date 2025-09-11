@@ -60,8 +60,8 @@ Sou desenvolvedor Fullstack com foco em React no front-end e Node.js no back-end
 
 ## 📫 Contato
 - Email: cha.petta@hotmail.com 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/yan-chapetta/)  
-- Instagram : @chapetta
+- LinkedIn: (https://www.linkedin.com/in/yan-chapetta/)  
+- Instagram : [@chapetta](https://www.instagram.com/chapetta/)
 
 ---
 
