@@ -1,11 +1,11 @@
 <!-- Banner (guarde banner.png em ./assets/) -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%"/>
+  <img src="" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Olá, eu sou o YOUR_NAME 👋 (Yan Chapetta)</h1>
+<h1 align="center">Olá, eu sou o Yan Chapetta 👋 </h1>
 <p align="center">
-  Desenvolvedor Fullstack • React • Node.js • MySQL • Criando aplicações web práticas e com UI amigável
+  Desenvolvedor Fullstack Júnior • JavaScript • React • Node.js • HTML • CSS • Criando aplicações web práticas e com UI amigável
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 Sou desenvolvedor Fullstack com foco em React no front-end e Node.js no back-end. Gosto de transformar ideias em produtos úteis — desde protótipo até deploy. Atualmente trabalhando em projetos pessoais como **PokéTrunfo** e um **portfolio interativo**.
 
 ---
-
+<!--
 ## 🚀 Projetos em destaque
 ### PokéTrunfo — jogo de cartas (React + PokéAPI)
 > Jogo estilo Super Trunfo com cartas dos 151 originais. Sorteio de mãos, comparação de stats e placar.  
@@ -35,6 +35,7 @@ Sou desenvolvedor Fullstack com foco em React no front-end e Node.js no back-end
 
 ### API de Tarefas (Node.js + Express + MySQL)
 > CRUD com autenticação JWT e testes unitários.
+-->
 
 ---
 
@@ -58,9 +59,9 @@ Sou desenvolvedor Fullstack com foco em React no front-end e Node.js no back-end
 ---
 
 ## 📫 Contato
-- Email: your.email@example.com  
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-- Instagram / Twitter: @seuhandle (se tiver profissional)
+- Email: cha.petta@hotmail.com 
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/yan-chapetta/)  
+- Instagram : @chapetta
 
 ---
 
