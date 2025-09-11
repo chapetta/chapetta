@@ -26,30 +26,45 @@ Sou desenvolvedor Fullstack com foco em React no front-end e Node.js no back-end
 
 
 ---
+<!-- === Top layout: big stats header === -->
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <!-- Skyline: gráfico 3D das contributions -->
-      <img src="https://skyline.github.com/chapetta.png" alt="Skyline chapetta" style="max-width:100%;" />
+    <!-- LEFT: GitHub stats card (wide) -->
+    <td width="60%" valign="top">
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=dark&count_private=true&hide_title=false" alt="GitHub stats" style="max-width:100%;" />
+      </p>
+
+      <!-- Contribution heatmap (calendar) - opcional -->
+      <p>
+        <img src="https://ghchart.rshah.org/chapetta" alt="Contribution Graph" style="max-width:100%;" />
+      </p>
     </td>
 
-    <td width="35%" valign="top">
-      <!-- GitHub stats -->
-      <p><img src="https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=dark" alt="GitHub stats" style="max-width:100%;" /></p>
+    <!-- RIGHT: stacked cards (languages, trophies, streak) -->
+    <td width="40%" valign="top">
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapetta&layout=compact&theme=dark" alt="Top Languages" style="max-width:100%;" />
+      </p>
 
-      <!-- Top languages -->
-      <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapetta&layout=compact&theme=dark" alt="Top languages" style="max-width:100%;" /></p>
+      <p>
+        <img src="https://github-profile-trophy.vercel.app/?username=chapetta&theme=radical&row=1&column=3" alt="Trophies" style="max-width:100%;" />
+      </p>
 
-      <!-- Trophies -->
-      <p><img src="https://github-profile-trophy.vercel.app/?username=chapetta&theme=radical" alt="Trophies" style="max-width:100%;" /></p>
-
-      <!-- (opcional) Streak — se estiver indisponível, remova esta linha -->
-      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chapetta&theme=dark" alt="GitHub Streak" style="max-width:100%;" /></p>
+      <!-- Streak (remova essa linha se não carregar) -->
+      <p>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chapetta&theme=dark" alt="GitHub Streak" style="max-width:100%;" />
+      </p>
     </td>
   </tr>
 </table>
 
+<!-- === Large 3D skyline / contribution blocks (estilo sua imagem) === -->
+<p>
+  <img src="https://skyline.github.com/chapetta.png" alt="Skyline chapetta" style="max-width:100%;" />
+</p>
 
+<!-- Você pode acrescentar uma seção com demo / GIF / links de projetos abaixo -->
 
 ---
 
