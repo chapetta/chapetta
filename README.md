@@ -29,28 +29,26 @@ Sou desenvolvedor Fullstack com foco em React no front-end e Node.js no back-end
 <table>
   <tr>
     <td width="65%" valign="top">
-      <img src="https://skyline.github.com/chapetta.png" alt="Skyline" style="max-width:100%;">
+      <!-- Skyline: gráfico 3D das contributions -->
+      <img src="https://skyline.github.com/chapetta.png" alt="Skyline chapetta" style="max-width:100%;" />
     </td>
 
     <td width="35%" valign="top">
-      <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=dark" alt="GitHub stats" />
-      </p>
+      <!-- GitHub stats -->
+      <p><img src="https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=dark" alt="GitHub stats" style="max-width:100%;" /></p>
 
-      <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapetta&layout=compact&theme=dark" alt="Top languages" />
-      </p>
+      <!-- Top languages -->
+      <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapetta&layout=compact&theme=dark" alt="Top languages" style="max-width:100%;" /></p>
 
-      <p>
-        <img src="https://github-profile-trophy.vercel.app/?username=chapetta&theme=radical" alt="Trophies" />
-      </p>
+      <!-- Trophies -->
+      <p><img src="https://github-profile-trophy.vercel.app/?username=chapetta&theme=radical" alt="Trophies" style="max-width:100%;" /></p>
 
-      <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chapetta&theme=dark" alt="GitHub Streak" />
-      </p>
+      <!-- (opcional) Streak — se estiver indisponível, remova esta linha -->
+      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chapetta&theme=dark" alt="GitHub Streak" style="max-width:100%;" /></p>
     </td>
   </tr>
 </table>
+
 
 
 ---
