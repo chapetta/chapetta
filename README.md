@@ -8,7 +8,7 @@
 
 -----
 
-<h1 align="center">Olá, eu sou o Yan Chapetta 👋 </h1>
+<h1 align="center">Que Bom te ver por aqui! 😃 </h1>
 <p align="center">
   Desenvolvedor Fullstack Júnior • JavaScript • React • Node.js • HTML • CSS • Criando aplicações web práticas e com UI amigável
 </p>
