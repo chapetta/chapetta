@@ -20,7 +20,12 @@
 ---
 
 ## 🔭 Sobre mim
-Sou desenvolvedor Fullstack com foco em React no front-end e Node.js no back-end. Gosto de transformar ideias em produtos úteis — desde protótipo até deploy. Atualmente trabalhando em projetos pessoais como **PokéTrunfo** e um **portfolio interativo**.
+Olá! Sou o Chapetta, tenho 32 anos e sou Desenvolvedor FullStack Júnior, do Rio de Janeiro.
+Estou finalizando minha formação em programação web e, diariamente, aprimoro minhas habilidades em React, Node.js, TypeScript, MySQL e desenvolvimento de APIs.
+
+Busco minha primeira oportunidade como desenvolvedor, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos que impactem positivamente usuários e empresas.
+
+Sou dedicado, disciplinado e apaixonado por tecnologia — sempre em busca de novos desafios para evoluir como desenvolvedor. 🚀
 
 ---
 
