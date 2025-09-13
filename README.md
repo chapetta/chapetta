@@ -2,7 +2,8 @@
 
 -----
 <p align="center">
-  <img src="" alt="Banner" width="100%"/>
+
+  <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/5111746b-ca5d-4cb1-885e-138c1980d0ef" />
 </p>
 
 -----
