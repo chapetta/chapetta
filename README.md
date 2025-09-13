@@ -1,7 +1,11 @@
 <!-- Banner (guarde banner.png em ./assets/) -->
+
+-----
 <p align="center">
   <img src="" alt="Banner" width="100%"/>
 </p>
+
+-----
 
 <h1 align="center">Olá, eu sou o Yan Chapetta 👋 </h1>
 <p align="center">
