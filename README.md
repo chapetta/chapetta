@@ -37,10 +37,9 @@ Sou dedicado, disciplinado e apaixonado por tecnologia — sempre em busca de no
 
 ---
 <!-- Skyline -->
-![Skyline](https://skyline.github.com/chapetta.png)
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=bear)
 
 <!-- Top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chapetta&layout=compact&theme=dark)
