@@ -10,7 +10,7 @@
 
 <h1 align="center">Que Bom te ver por aqui! 😃 </h1>
 <p align="center">
-  Desenvolvedor Fullstack Júnior • JavaScript • React • Node.js • HTML • CSS • Criando aplicações web práticas e com UI amigável
+  Desenvolvedor Fullstack Júnior • JavaScript • React • Node.js • HTML • CSS • Criando aplicações web práticas e com UI amigável!
 </p>
 
 <p align="center">
