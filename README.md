@@ -13,7 +13,7 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Next.js** 
 
 
 - 🔭 Atualmente trabalhando em: **Code Beats / Aprendendo X**
-- 🌱 Estudando: **GraphQL / Clean Architecture / DevOps básico**
+- 🌱 Estudando: **N8N / IA / SoftSkills**
 - 💬 Prefiro falar sobre: **JavaScript, TypeScript, testes, boas práticas**
 - 📫 Contato: [cha.petta@hotmail.com] • [LinkedIn](https://www.linkedin.com/in/yan-chapetta)
 
