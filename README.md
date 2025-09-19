@@ -78,9 +78,9 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Next.js** 
 ## 📫 Contato
 
 
-- Email: **[cha.petta@hotmail.com**
-- LinkedIn: **[https://www.linkedin.com/in/yan-chapetta]**
-- Portfólio: **[seu-site.com]**
+- Email: **cha.petta@hotmail.com**
+- LinkedIn: **https://www.linkedin.com/in/yan-chapetta**
+- Portfólio: **Em construção**
 
 
 ---
