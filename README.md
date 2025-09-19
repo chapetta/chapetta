@@ -8,8 +8,6 @@
 
 
 <p>
-<img align="left" width="160" src="[URL_DA_SUA_FOTO_OU_BADGE]" alt="avatar" />
-
 
 Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Next.js** no front-end e **Node.js / Express / TypeScript** no back-end. Trabalho com arquitetura limpa, testes básicos e deploy em plataformas como **Vercel** e **Heroku**.
 
@@ -44,11 +42,14 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Next.js** 
 ## Projetos em destaque
 
 
-### [Projeto 1 — Nome do Projeto](link_para_repositorio)
-- Pequena descrição (1-2 linhas)
-- Tech: React, TypeScript, Node.js
-- Demo: link | GIF
+### 🎵 Projeto 1 — Code Beats
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Code%20Beats-blue?logo=github)](https://github.com/chapetta/code-beats)
+
+- **Descrição**: Template minimalista para iniciar projetos React com TypeScript e Vite, incluindo configuração básica de ESLint.
+- **Tech Stack**: React, TypeScript, Vite, ESLint
+- **Status**: Em construção
+- **Demo**: Em breve
 
 ### [Projeto 2 — Nome do Projeto](link_para_repositorio)
 - Pequena descrição
