@@ -65,10 +65,10 @@ Sou desenvolvedor Fullstack júnior com foco em **[React / TypeScript/ Next.js]*
 ## Estatísticas
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)](https://github.com/SEU_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chapetta&layout=compact)](https://github.com/chapetta)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true)](https://github.com/SEU_USERNAME)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true)](https://github.com/chapetta)
 
 
 ---
