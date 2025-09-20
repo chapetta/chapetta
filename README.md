@@ -6,14 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=000&background=fff&lines=Desenvolvedor+FullStack+Jr.;React+|+TypeScript+|+NodeJs;Open+to+Work+😁)](#)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chapetta&label=Profile%20views&color=0e75b6&style=flat&theme=bear" alt="chapetta" /> </p>
-
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chapetta&label=Profile%20views&color=0e75b6&style=flat" alt="chapetta" /> </p>
 
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chapetta" alt="chapetta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=bear"><img src="https://github-profile-trophy.vercel.app/?username=chapetta" alt="chapetta" /></a> </p>
 
 ---
 <h3 align="left">Conecte comigo:</h3>
