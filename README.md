@@ -6,7 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=000&background=fff&lines=Desenvolvedor+FullStack+Jr.;React+|+TypeScript+|+NodeJs;Open+to+Work+😁)](#)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chapetta&label=Profile%20views&color=0e75b6&style=flat" alt="chapetta" /> </p>
+<p align="left">
+  <a href="https://github.com/chapetta" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=chapetta&theme=bear" alt="chapetta" />
+  </a>
+</p>
 
 
 ---
