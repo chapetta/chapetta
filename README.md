@@ -4,7 +4,7 @@
 # Olá 👋, eu sou o Yan Chapetta
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=000&background=fff&lines=Fullstack+Developer;React+|+Node.js+|+TypeScript;Open+to+Opportunities)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=000&background=fff&lines=Desenvolvedor+FullStack+Jr.;React+|+TypeScript+|+NodeJs;Open+to+Works)](#)
 
 
 <p>
