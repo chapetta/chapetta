@@ -106,8 +106,7 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Tailwind C
 ### 🖥️ Preview Desktop — Todo App
 <img src="https://raw.githubusercontent.com/chapetta/todoList-app/main/public/images/web_preview.gif" alt="Preview Desktop" width="500px" />
 
-
-
+---
 <!--
 ### [Projeto 3 — Nome do Projeto](link_para_repositorio)
 - Pequena descrição
