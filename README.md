@@ -96,12 +96,15 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Tailwind C
 - **Status**: Em construção
 - **Demo**: Em breve
 
-<!--
+
 ### [Projeto 2 — Nome do Projeto](link_para_repositorio)
-- Pequena descrição
-- Destaque uma feature: ex: Autenticação JWT, Upload de arquivos
+
+- Projeto de tarefas responsivos. Adicionar, Remover e filtrar tarefas.
+- Tecnoloogias utilizadas: React, Typescript, TailwindCSS, Testes
+<img src="public/images/preview-mobile.gif" alt="Preview mobile" width="300px" />
 
 
+<!--
 ### [Projeto 3 — Nome do Projeto](link_para_repositorio)
 - Pequena descrição
 
