@@ -6,29 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=000&background=fff&lines=Desenvolvedor+FullStack+Jr.;React+|+TypeScript+|+NodeJs;Open+to+Work+😁)](#)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chapetta&label=Profile%20views&color=0e75b6&style=flat" alt="chapetta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chapetta&label=Profile%20views&color=0e75b6&style=flat&theme=bear" alt="chapetta" /> </p>
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true" />
-</picture>
-
-
-
 
 
 ---
@@ -135,10 +115,10 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Tailwind C
 ## Estatísticas
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chapetta&layout=compact)](https://github.com/chapetta)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chapetta&layout=compact&theme=bear)](https://github.com/chapetta)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true)](https://github.com/chapetta)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=bear)](https://github.com/chapetta)
 
 
 ---
