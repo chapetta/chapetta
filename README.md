@@ -97,7 +97,7 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Tailwind C
 - **Demo**: Em breve
 
 
-### [Projeto 2 — Nome do Projeto](link_para_repositorio)
+### [Projeto 2 — Todo App](https://github.com/chapetta/todoList-app))
 
 - Projeto de tarefas responsivos. Adicionar, Remover e filtrar tarefas.
 - Tecnoloogias utilizadas: React, Typescript, TailwindCSS, Testes
