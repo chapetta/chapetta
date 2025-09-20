@@ -9,13 +9,13 @@
 
 <p>
 
-Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Next.js** no front-end e **Node.js / Express / TypeScript** no back-end. Trabalho com arquitetura limpa, testes básicos e deploy em plataformas como **Vercel** e **Heroku**.
+Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Tailwind CSS** no front-end e **Node.js / Express / TypeScript** no back-end. Trabalho com arquitetura limpa, testes básicos e deploy em plataformas como **Vercel** e **Heroku**.
 
 
 - 🔭 Atualmente trabalhando em: **Code Beats / Aprendendo X**
 - 🌱 Estudando: **N8N / IA / SoftSkills**
 - 💬 Prefiro falar sobre: **JavaScript, TypeScript, testes, boas práticas**
-- 📫 Contato: [cha.petta@hotmail.com] • [LinkedIn](https://www.linkedin.com/in/yan-chapetta)
+- 📫 Contato: [E-mail]:[cha.petta@hotmail.com] • [LinkedIn](https://www.linkedin.com/in/yan-chapetta) [WhatSapp]:(21) 98151-0300
 
 
 </p>
