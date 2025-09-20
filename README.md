@@ -10,7 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chapetta" alt="chapetta" /></a> </p>
 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yan-chapetta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yan-chapetta/" height="30" width="40" /></a>
 
+<a href="https://instagram.com/chapetta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chapetta" height="30" width="40" /></a>
 
 <p>
 
