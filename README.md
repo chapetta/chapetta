@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=000&background=fff&lines=Desenvolvedor+FullStack+Jr.;React+|+TypeScript+|+NodeJs;Open+to+Work+😁)](#)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chapetta&label=Profile%20views&color=0e75b6&style=flat" alt="chapetta" /> </p>
+
 
 <p>
 
@@ -15,7 +17,7 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Tailwind C
 - 🔭 Atualmente trabalhando na construção do meu portfólio e montando meus projetos pessoais, tais como: **Code Beats / ToDo APP X**
 - 🌱 Estudando, aprendendo e aprimorando tenclogias como: **N8N / IA **
 - 💬 Procurando me aprimorar todos os dias minhas habilidades e conhecimentos e me tornar um programador melhor!
-  -  **Mande -me sugestões e feedbacks que possam me ajudar de alguma forma me contatando abaixo**
+  -  **Aceito sugestões e feedbacks que possam me ajudar a progredir profissionalmente!**
 - 📫 Contato: [E-mail]:[cha.petta@hotmail.com] • [LinkedIn](https://www.linkedin.com/in/yan-chapetta) 
 
 
