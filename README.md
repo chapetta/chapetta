@@ -12,10 +12,21 @@
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yan-chapetta/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Yan Chapetta" height="30" width="40" />
-</a>
-<a href="https://instagram.com/chapetta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chapetta" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yan-chapetta/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Yan Chapetta" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/chapetta" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - chapetta" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/5521981510300" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp - Yan Chapetta" height="30" width="40" />
+  </a>
+  <a href="mailto:cha.petta@hotmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email - cha.petta@hotmail.com" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/SEU-CODIGO-AQUI" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
 
 <p>
