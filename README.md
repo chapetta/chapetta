@@ -11,13 +11,7 @@
 
 ---
 
-<p align="left">
-  <a href="https://github.com/chapetta" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=chapetta&theme=bear" alt="chapetta" />
-  </a>
-</p>
 
----
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yan-chapetta/" target="blank">
@@ -121,6 +115,11 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Tailwind C
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=bear)](https://github.com/chapetta)
+
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=chapetta&theme=merko" alt="chapetta" />
+</p>
 
 
 ---
