@@ -27,7 +27,7 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript/ Tailwind C
 - 🌱 Estudando, aprendendo e aprimorando tenclogias como: **N8N / IA **
 - 💬 Procurando me aprimorar todos os dias minhas habilidades e conhecimentos e me tornar um programador melhor!
   -  **Aceito sugestões e feedbacks que possam me ajudar a progredir profissionalmente!**
-- 📫 Contato: [E-mail]:[cha.petta@hotmail.com] • [LinkedIn](https://www.linkedin.com/in/yan-chapetta) 
+- 📫 Contato: [E-mail]:[cha.petta@hotmail.com] 
 
 
 </p>
