@@ -21,7 +21,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chapetta&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<a href="https://www.credly.com/badges/22336acd-57f2-4d1e-a3a7-af96f007ce8d/linked_in?t=sqdowx"> <img alt="AWS Cloud Practitioner Badge" width="160px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/> </a>
 
 ---
 
