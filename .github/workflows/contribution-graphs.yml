@@ -1,0 +1,32 @@
+name: Generate contribution graphs 🎮
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chapetta
+          output: ./output/snake.svg
+
+      - name: Generate Pac-Man graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chapetta
+          mode: pacman
+          output: ./output/pacman.svg
+
+      - name: Commit output files
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output
+          message: "Generate contribution graphs"
