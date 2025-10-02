@@ -1,0 +1,25 @@
+name: Generate cat contribution graph 🐱
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate cat
+        uses: yohom/github-contribution-grid-cat@master
+        with:
+          github_user_name: chapetta
+          output: ./output/cat.svg
+
+      - name: Commit files
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output
+          message: "Generate cat contribution graph"
