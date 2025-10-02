@@ -11,6 +11,25 @@
 
 ---
 
+📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=notjef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=notjef&locale=pt-br&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=notjef&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notjef&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notjef&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###📝 Explanation of the graphs
+	•	Stats graph (first) → Shows general statistics: commits, private contributions, number of repositories, etc.
+	•	Streak graph (second) → Displays the streak of consecutive days you made contributions on GitHub.
+	•	Trophy graph (third) → Shows “trophies” based on your GitHub activity level (commits, issues, pull requests, etc.).
+	•	Languages graph (fourth) → Displays the most used programming languages across your repositories.
+	•	Activity graph (last) → Graph with your contribution activity over time, highlighting peaks of activity.
+
+---
+
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
