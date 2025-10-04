@@ -10,6 +10,21 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
 - 🌱 Estudando e aprimorando tecnologias como: **N8N / IA**
 - 💬 Busco aprimorar minhas habilidades todos os dias e me tornar um programador melhor
    - **Aceito sugestões e feedbacks que possam me ajudar a progredir profissionalmente!**
+ 
+  ## 🔗 Conecte comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yan-chapetta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/chapetta" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/5521981510300" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
 
 📫 Contato: **cha.petta@hotmail.com**
 
@@ -26,22 +41,6 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
   <img src="https://streak-stats.demolab.com?user=chapetta&theme=gotham" height="150" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chapetta&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
----
-
-## 🔗 Conecte comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yan-chapetta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/chapetta" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/5521981510300" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
 
 ---
 
