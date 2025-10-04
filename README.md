@@ -2,6 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=000&background=fff&lines=Desenvolvedor+FullStack+Jr.;React+|+TypeScript+|+NodeJs;Open+to+Work+😁)](#)
 
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind CSS** no front-end e **Node.js / Express / TypeScript** no back-end. Trabalho com arquitetura limpa, testes básicos e deploy em plataformas como **Vercel** e **Heroku**.
+
+- 🔭 Atualmente trabalhando na construção do meu portfólio e montando projetos pessoais, como: **Code Beats / ToDo APP**
+- 🌱 Estudando e aprimorando tecnologias como: **N8N / IA**
+- 💬 Busco aprimorar minhas habilidades todos os dias e me tornar um programador melhor
+   - **Aceito sugestões e feedbacks que possam me ajudar a progredir profissionalmente!**
+
+📫 Contato: **cha.petta@hotmail.com**
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chapetta&label=Profile%20views&color=0e75b6&style=flat" alt="chapetta" />
 </p>
@@ -31,19 +42,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind CSS** no front-end e **Node.js / Express / TypeScript** no back-end. Trabalho com arquitetura limpa, testes básicos e deploy em plataformas como **Vercel** e **Heroku**.
-
-- 🔭 Atualmente trabalhando na construção do meu portfólio e montando projetos pessoais, como: **Code Beats / ToDo APP**
-- 🌱 Estudando e aprimorando tecnologias como: **N8N / IA**
-- 💬 Busco aprimorar minhas habilidades todos os dias e me tornar um programador melhor
-   - **Aceito sugestões e feedbacks que possam me ajudar a progredir profissionalmente!**
-
-📫 Contato: **cha.petta@hotmail.com**
 
 ---
 
