@@ -44,7 +44,79 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chapetta&theme=tokyonight" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 139.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 255 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 34 Public Repositories 
+ > 
+> 🔑 12 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                156 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+🌆 Daytime                438 commits         ██████████████░░░░░░░░░░░   54.14 % 
+🌃 Evening                215 commits         ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Tuesday                  168 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Wednesday                73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Thursday                 152 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Saturday                 178 commits         ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Sunday                   44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               21 repos            ████████████░░░░░░░░░░░░░   47.73 % 
+TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/chapetta/chapetta/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/10/2025 12:34:20 UTC
 <!--END_SECTION:waka-->
 
 
