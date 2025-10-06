@@ -43,6 +43,9 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chapetta&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chapetta&theme=tokyonight" />
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 
 
