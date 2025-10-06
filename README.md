@@ -37,9 +37,17 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chapetta&show_icons=true&theme=dark&locale=pt-br" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=chapetta&theme=gotham" height="150" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chapetta&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chapetta&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chapetta&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chapetta&theme=tokyonight" />
+
+
+
+
+
+   
 </div>
 
 ---
