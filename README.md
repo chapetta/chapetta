@@ -46,7 +46,7 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 **🐱 My GitHub Data** 
 
