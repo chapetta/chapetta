@@ -54,8 +54,6 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
  > 
 > 🏆 255 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 34 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
