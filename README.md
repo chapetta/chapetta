@@ -44,17 +44,15 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chapetta&theme=tokyonight" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 139.8 kB Used in GitHub's Storage 
+> 📦 143.5 kB Used in GitHub's Storage 
  > 
-> 🏆 255 Contributions in the Year 2025
+> 🏆 300 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
  > 
@@ -63,21 +61,21 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                159 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-🌆 Daytime                438 commits         █████████████░░░░░░░░░░░░   53.94 % 
-🌃 Evening                215 commits         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+🌞 Morning                171 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+🌆 Daytime                467 commits         ██████████████░░░░░░░░░░░   54.68 % 
+🌃 Evening                216 commits         ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Tuesday                  168 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Wednesday                73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Thursday                 152 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Saturday                 178 commits         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-Sunday                   44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Monday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Tuesday                  181 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Wednesday                77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Thursday                 164 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Friday                   149 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Saturday                 178 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Sunday                   44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
 
 
@@ -116,7 +114,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chapetta/chapetta/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2025 18:57:13 UTC
+ Last Updated on 10/10/2025 18:57:25 UTC
 <!--END_SECTION:waka-->
 
 
