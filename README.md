@@ -185,9 +185,13 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | --- | --- | --- | --- | --- |
 | **Code Beats** | Template minimalista para iniciar projetos React com TypeScript e Vite. | React, TypeScript, Vite | Em construção | Em breve |
 | **Todo App** | Projetos de tarefas responsivo. Adicione, remova e filtre tarefas. | React, TypeScript, TailwindCSS | Pronto | [Demo](https://todoappchapetta.netlify.app/) |
+| **ChapsWallet** | Aplicação de controle de despesas com Zustand, Zod e Tailwind, permitindo adicionar, converter e excluir gastos em tempo real. | React, TypeScript, Zustand, Tailwind, Shadcn/UI | Pronto | [Demo](https://chaps-wallet.vercel.app/) |
 
 ### 🖥️ Preview Desktop — Todo App
 <img src="https://raw.githubusercontent.com/chapetta/todoList-app/main/public/images/web_preview.gif" alt="Preview Desktop" width="500px" />
+
+### 🖥️ Preview Desktop — ChapsWallet
+<img src="https://raw.githubusercontent.com/chapetta/chaps-wallet/main/public/images/preview-desktop.gif" alt="Preview Desktop" width="500px" />
 
 ---
 
