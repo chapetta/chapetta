@@ -191,7 +191,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 <img src="https://raw.githubusercontent.com/chapetta/todoList-app/main/public/images/web_preview.gif" alt="Preview Desktop" width="500px" />
 
 ### 🖥️ Preview Desktop — ChapsWallet
-<img src="https://raw.githubusercontent.com/chapetta/chaps-wallet/main/public/images/preview-desktop.gif" alt="Preview Desktop" width="500px" />
+<img src="https://raw.githubusercontent.com/chapetta/chapetta-wallet/main/public/images/web_preview.gif" alt="Preview Desktop" width="500px" />
 
 ---
 
