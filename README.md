@@ -6,7 +6,7 @@
 
 Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind CSS** no front-end e **Node.js / Express / TypeScript** no back-end. Trabalho com arquitetura limpa, testes básicos e deploy em plataformas como **Vercel** e **Heroku**.
 
-- 🔭 Atualmente trabalhando na construção do meu portfólio e montando projetos pessoais, como: **Code Beats / ToDo APP**
+- 🔭 Atualmente trabalhando na construção do meu portfólio e montando projetos pessoais, como: **ChapettaStore, CodeBeats**
 - 🌱 Estudando e aprimorando tecnologias como: **N8N / IA**
 - 💬 Busco aprimorar minhas habilidades todos os dias e me tornar um programador melhor
    - **Aceito sugestões e feedbacks que possam me ajudar a progredir profissionalmente!**
@@ -183,7 +183,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 | Projeto | Descrição | Tech Stack | Status | Demo |
 | --- | --- | --- | --- | --- |
-| **Code Beats** | Template minimalista para iniciar projetos React com TypeScript e Vite. | React, TypeScript, Vite | Em construção | Em breve |
+| **ChapettaStore** | Aplicação de um E-commerce com requisição na API fakeaistore. | React, TypeScript, Tailwind e Shadcn/UI | Em construção | Em breve |
 | **Todo App** | Projetos de tarefas responsivo. Adicione, remova e filtre tarefas. | React, TypeScript, TailwindCSS | Pronto | [Demo](https://todoappchapetta.netlify.app/) |
 | **ChapsWallet** | Aplicação de controle de despesas com Zustand, Zod e Tailwind, permitindo adicionar, converter e excluir gastos em tempo real. | React, TypeScript, Zustand, Tailwind, Shadcn/UI | Pronto | [Demo](https://chaps-wallet.vercel.app/) |
 
