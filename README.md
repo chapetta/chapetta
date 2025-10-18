@@ -188,7 +188,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 | **ChapsWallet** | Aplicação de controle de despesas com Zustand, Zod e Tailwind, permitindo adicionar, converter e excluir gastos em tempo real. | React, TypeScript, Zustand, Tailwind, Shadcn/UI | Pronto | [Demo](https://chaps-wallet.vercel.app/) |
 
 
-### 🖥️ Preview Desktop — ChapsStore (Em construção - Prévia ate agora)
+### 🖥️ Preview Desktop — ChapettaStore (Em construção - Prévia ate agora)
 <img src="https://raw.githubusercontent.com/chapetta/chapetta-store/main/public/images/chapetta-store-prev.gif" alt="Preview Desktop" width="500px" />
 
 ### 🖥️ Preview Desktop — Todo App
