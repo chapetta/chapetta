@@ -44,9 +44,9 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chapetta&theme=tokyonight" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -77,20 +77,21 @@ Sunday                   53 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 48 mins        █████████████████████░░░░   83.03 % 
-Bash                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+TypeScript               2 hrs 41 mins       ██████████████████████░░░   86.44 % 
+Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chapetta-store           1 hr 53 mins        ██████████████████████░░░   86.65 % 
-github-user-search       17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+chapetta-store           2 hrs 45 mins       ██████████████████████░░░   88.77 % 
+github-user-search       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+github-readme-linkedin   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-Linux                    2 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +111,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chapetta/chapetta/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2025 18:54:42 UTC
+ Last Updated on 20/10/2025 18:59:59 UTC
 <!--END_SECTION:waka-->
 
 
