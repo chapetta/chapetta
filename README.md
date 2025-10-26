@@ -27,6 +27,7 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
 
 
 📫 E-mail: **cha.petta@hotmail.com**
+🔗 Portofólio: ![Preview](https://yan-chapetta-portfolio.vercel.app/) (Em Densenvolvimento)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chapetta&label=Profile%20views&color=0e75b6&style=flat" alt="chapetta" />
