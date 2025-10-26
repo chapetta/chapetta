@@ -31,7 +31,7 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
 ## 🖥️ Meu Portfólio
 
 [![Preview do Portfólio](https://raw.githubusercontent.com/chapetta/yan-chapetta-portfolio/main/public/preview.png)](https://yan-chapetta-portfolio.vercel.app)
-> 🚀 Em desenvolvimento — mas já acessível para visualização!
+> 🚀 Em desenvolvimento — mas já acessível para visualização! Clique na imagem para ir pro site!!
 
 
 <p align="left">
