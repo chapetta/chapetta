@@ -50,9 +50,9 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chapetta&theme=tokyonight" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -83,24 +83,24 @@ Sunday                   61 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 34 mins       █████████████░░░░░░░░░░░░   51.70 % 
-JavaScript               2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JavaScript               4 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.80 % 
+TypeScript               3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.33 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yan-chapetta-portfolio   2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.05 % 
-soccer-team-manager      1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-projeto-OpenAi           1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-cacau-trybe              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-hello-world              34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+yan-chapetta-portfolio   2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+cacau-trybe              2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+soccer-team-manager      1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+projeto-OpenAi           1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+hello-world              34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 💻 Operating System: 
-Linux                    6 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chapetta/chapetta/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 19:00:02 UTC
+ Last Updated on 01/11/2025 18:52:06 UTC
 <!--END_SECTION:waka-->
 
 
